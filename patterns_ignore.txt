@@ -1,4 +1,4 @@
 ^\x1b\[0m\[ INFO\] \[[\d.]+]: ts [\d.]+ size 
-^\x1b\[0m\[ INFO\] \[[\d.]+]: resolved target 'gpu2.ubercam.net:14221'
-^\x1b\[0m\[ INFO\] \[[\d.]+]: alive 1 target wss://gpu2.ubercam.net:14221/sensor
+^\x1b\[0m\[ INFO\] \[[\d.]+]: resolved target 
+^\x1b\[0m\[ INFO\] \[[\d.]+]: alive 1 target 
 ^\x1b\[0m\[ INFO\] \[[\d.]+]: running updateSentinelStatus: running 1
